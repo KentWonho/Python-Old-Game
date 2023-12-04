@@ -57,7 +57,7 @@ def paddle1_up():
 
 # Function to move paddle1 down
 def paddle1_down():
-    paddle1.dy = -10
+    paddle1.dy = -15
 
 
 # Function to move paddle2 up
@@ -67,7 +67,7 @@ def paddle2_up():
 
 # Function to move paddle2 down
 def paddle2_down():
-    paddle2.dy = -10
+    paddle2.dy = -15
 
 
 def close():
